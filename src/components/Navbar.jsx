@@ -10,7 +10,11 @@ const Navbar = () => {
         {
             title: "poots",
             path: '/poots'
-        }
+        },
+        {
+            title: "meals",
+            path: '/meals'
+        },
     ]
     return (
         <div>
